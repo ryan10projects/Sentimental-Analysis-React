@@ -1,0 +1,31 @@
+/* .side_div
+{
+    width:1050px;
+    float:right;
+    padding:10px;
+} */
+.heading
+{
+   margin-left: 80px;
+}
+.home_gif
+{
+    height:8%;
+    margin-top: -5%;
+}
+.content
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.feature
+{
+    font-size:0.9rem;
+    color:#4393F7;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    margin-top: -3%;
+}
